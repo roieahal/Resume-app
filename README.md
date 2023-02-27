@@ -13,5 +13,5 @@ we didn't found a good website that did this for free and this is how the idea o
 
 <h2> Run the project </h2>
 *on Chrome
-<a href="https://bejewelled-arithmetic-1d0179.netlify.app"> resume app </a>
+<a href="https://resume-ic7u.onrender.com/"> resume app </a>
 or you can clone the project and run 'npm install" and then "npm start"
